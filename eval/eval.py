@@ -4,7 +4,6 @@ import os
 import pandas as pd
 import pickle
 from vllm import LLM, SamplingParams
-import ray
 import sys
 import warnings
 warnings.filterwarnings("ignore", category=UserWarning, module="transformers")
@@ -20,7 +19,7 @@ def setup_seed(seed):
      np.random.seed(seed)
      random.seed(seed)
      torch.backends.cudnn.deterministic = True
-# 设置随机数种子
+
 setup_seed(seed)
 os.environ["VLLM_ENABLE_V1_MULTIPROCESSING"] = "0"
 
