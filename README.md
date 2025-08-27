@@ -30,7 +30,7 @@ cd OphthaReason
 pip install -r requirements_eval.txt
 ```
 ### 2. Evaluation  
-* Please change the paths `BASE64_ROOT` `DS_ROOT` `OUTPUT_DIR` in `eval.py` to your own.
+* Please change the paths `BASE64_ROOT` `DS_ROOT` `OUTPUT_DIR` in `eval.py` and the model path `path/to/the/model/` in `eval.sh` to your own.
 ```
 bash eval.sh 
 ```
