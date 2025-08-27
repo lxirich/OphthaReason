@@ -12,8 +12,8 @@
 
 We introduce MM-Retinal-Reason, the first ophthalmic multimodal dataset with the full spectrum of perception and reasoning. It encompasses both basic reasoning tasks and complex reasoning tasks, aiming to enhance visual-centric fundamental reasoning capabilities and emulate realistic clinical thinking patterns. Building upon MM-Retinal-Reason, we propose OphthaReason, the first ophthalmology-specific multimodal reasoning model with step-by-step reasoning traces. To enable flexible adaptation to both basic and complex reasoning tasks, we specifically design a novel method called Uncertainty-Aware Dynamic Thinking (UADT), which estimates sample-level uncertainty via entropy and dynamically modulates the model’s exploration depth using a shaped advantage mechanism. 
 
-<img src=./figures/model.png width="100%">
-<img src=./figures/case.png width="1000%">
+<img src=./assets/model.png width="100%">
+<img src=./assets/case.png width="1000%">
 
 ## 🚀 Updates
 - **[2025.8.22]** We release our initial [ArXiv paper](https://arxiv.org/abs/2508.16129).
