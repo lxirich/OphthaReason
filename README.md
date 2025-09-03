@@ -73,8 +73,6 @@ bash eval/eval.sh
 
 
 
-## 💘 Acknowledgements
-We extend our sincere gratitude to the developers and contributors of the following open-source projects: [VLM-R1](https://github.com/om-ai-lab/VLM-R1?tab=readme-ov-file#for-your-own-data), [Open-R1](https://github.com/huggingface/open-r1), [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory), [vLLM](https://github.com/vllm-project/vllm), [Qwen2.5-VL](https://github.com/QwenLM/Qwen2.5-VL), [InternVL](https://github.com/OpenGVLab/InternVL). Their invaluable work provided the foundation for our research.
 
 
 
