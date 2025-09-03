@@ -70,12 +70,12 @@ pip install -r requirements_eval.txt
     - `OUTPUT_DIR`: Directory for output results
 2. Modify the model path in `eval.py` to point to your downloaded model
 3. Run the evaluation script:
-```
+```bash
 bash eval/eval.sh 
 ```
 ### 4. Single Instance VQA Inference
 For Visual Question Answering with a single instance (which may include multiple images), use the following example:
-```
+```python
 import base64
 from vllm import LLM, SamplingParams
 
