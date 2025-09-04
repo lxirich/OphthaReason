@@ -3,7 +3,7 @@
 
 <div align="center">
 
-[![arXiv](https://img.shields.io/badge/arXiv-2503.13939-b31b1b.svg)](https://arxiv.org/abs/2508.16129)
+[![arXiv](https://img.shields.io/badge/arXiv-2508.16129-b31b1b.svg)](https://arxiv.org/abs/2508.16129)
 [![Github](https://img.shields.io/badge/Github-OphthaReason-black?logo=Github)](https://github.com/lxirich/OphthaReason)
 [![Model](https://img.shields.io/badge/Model-OphthaReason-blue?logo=huggingface)](https://huggingface.co/lxirich/OphthaReason)
 [![Dataset](https://img.shields.io/badge/Dataset-MM--Retinal--Reason-blue?logo=huggingface)](https://huggingface.co/datasets/lxirich/MM-Retinal-Reason)
