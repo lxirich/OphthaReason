@@ -25,7 +25,7 @@ We introduce MM-Retinal-Reason, the first ophthalmic multimodal dataset with the
 The format for the JSON file:
 ```bash
 {
-  "image": ["path/to/image.jpg"],
+  "image": ["base64_string_for_image"],
   "conversations": [
     {"from": "human", "value": "user input"},
     {"from": "gpt", "value": "assistant output"},
